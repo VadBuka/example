@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 dsfsdfdsadsas
 
 sdfsdfs
 dsfsd
+=======
+dsfsd111fdsadsas
+
+sdfcsdds
+sdfdsfsd
+>>>>>>> new
